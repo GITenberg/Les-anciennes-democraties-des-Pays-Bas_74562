@@ -1,0 +1,34 @@
+_repo: Les-anciennes-democraties-des-Pays-Bas_74562
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pirenne, Henri
+    aliases:
+    - Pirenne, Jean Henri Otto Lucien Marie
+    - Pirenne, H. (Henri)
+    birthdate: 1862
+    deathdate: 1935
+    gutenberg_agent_id: '35750'
+    url: http://www.gutenberg.org/2009/agents/35750
+    wikipedia: https://en.wikipedia.org/wiki/Henri_Pirenne
+description: ''
+gutenberg_issued: '2024-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74562'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=fyxEAAAAcAAJ
+pgterms:marc905: 20220111030424pirenne
+pgterms:marc906: '1910'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Pierre Lacaze and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aParis :$bErnest Flammarion, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les anciennes démocraties des Pays-Bas
+url: http://www.gutenberg.org/ebooks/74562
